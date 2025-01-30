@@ -20,7 +20,7 @@ function App() {
 
   return (
     <>
-      <h1 className="bg-green-400">Chai or React</h1>
+      <h1 className="bg-red-100">Chai or React</h1>
       <h2>Cunter Value : {counter}</h2>
 
       <button onClick={addValue}>Add Value</button>
@@ -29,5 +29,6 @@ function App() {
     </>
   );
 }
+3;
 
 export default App;
